@@ -1,0 +1,2 @@
+# jspub
+public js scripts
